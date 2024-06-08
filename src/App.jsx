@@ -8,6 +8,7 @@ import AppContext from './AppContext';
 import MainApp from './MainApp';
 import GlobalStyles from './theme/GlobalStyles';
 import { lightTheme, darkTheme } from './theme/themes';
+import { Analytics } from '@vercel/analytics/react'; // Import the Analytics component
 
 function App() {
   window.matchMedia = null;
@@ -20,6 +21,7 @@ function App() {
         <div className="App">
           <BrowserRouter>
             <MainApp />
+            <Analytics /> {}
           </BrowserRouter>
         </div>
       </ThemeProvider>
