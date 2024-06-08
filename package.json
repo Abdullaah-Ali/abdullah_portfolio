@@ -42,8 +42,7 @@
     "start": "set NODE_OPTIONS=--openssl-legacy-provider && react-scripts start",
     "build": "set NODE_OPTIONS=--openssl-legacy-provider && react-scripts build",
     "test": "set NODE_OPTIONS=--openssl-legacy-provider && react-scripts test",
-    "eject": "react-scripts eject",
-    "install": "npm start"
+    "eject": "react-scripts eject"
   },
   "devDependencies": {
     "eslint-config-airbnb": "^18.2.1",
