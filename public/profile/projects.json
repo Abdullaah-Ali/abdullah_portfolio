@@ -1,0 +1,48 @@
+{
+    "projects" : [
+        {
+            "image" : "images/projects/blogging.png",
+            "title": "Developer - Blogging Website",
+            "bodyText": "blogging website features JWT-based authentication (login, signup, logout), blog management with pagination, and user profile functionality. It incorporates AI for spell checking, content summarization, and a custom chatbot. SEO is enhanced using NLP for auto-generating tags and recommendations.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Abdullaah-Ali/BlogWebappBackend"
+                },
+                {
+                    "text": "Live",
+                    "href": "vercel.com"
+                }
+            ],
+            "tags" : [
+                "React",
+                "Mern",
+                "JavaScript",
+                "Vercel",
+                "Machine Learning"
+            ]
+        },
+        {
+            "image" : "images/projects/caaring-poster.png",
+            "title": "Developer - Task Scheduler",
+            "bodyText": "The task scheduler website enables users to add, delete, edit tasks, and set expiry dates. It features machine learning for task prioritization and NLP for analyzing due dates to recommend task order. This integration optimizes task management and enhances productivity.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Abdullaah-Ali/AI-Powered-Task-Scheduler"
+                },
+                {
+                    "text": "Live",
+                    "href": "vercel.com"
+                }
+            ],
+            "tags" : [
+                "Python",
+                "React",
+                "Mern",
+                "Vercel",
+                "Machine Learning"
+            ]
+        }
+    ]
+}
