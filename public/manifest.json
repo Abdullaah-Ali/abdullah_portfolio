@@ -1,0 +1,15 @@
+{
+  "short_name": "Abdullah",
+  "name": "Syed Abdullah Ali",
+  "icons": [
+    {
+      "src": "images/",
+      "type": "image/",
+      "sizes": "425x225"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}

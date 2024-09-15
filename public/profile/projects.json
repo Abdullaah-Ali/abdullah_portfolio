@@ -1,0 +1,52 @@
+{
+    "projects" : [
+        {
+            "image" : "images/projects/blog.jpg",
+            "title": "Developer - Blogging Website",
+            "bodyText": "blogging website features JWT-based authentication (login, signup, logout), blog management with pagination, and user profile functionality. It incorporates AI for spell checking, content summarization, and a custom chatbot. SEO is enhanced using NLP for auto-generating tags and recommendations.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Abdullaah-Ali/BlogWebappBackend"
+                },
+                {
+                    "text": "Live",
+                    "href": "vercel.com"
+                }
+            ],
+            "tags" : [
+                "React",
+                "Mern",
+                "JavaScript",
+                "Vercel",
+                "Machine Learning",
+                "Firebase"
+            ]
+        },
+        
+        {
+            "image" : "images/projects/pacedream.png",
+            "title": "PaceDream Full Stack Developer",
+            "bodyText": "PaceDream is an innovative property management platform designed to cater to a wide range of rental needs, offering users unparalleled flexibility and choice. As a comprehensive solution, PaceDream stands out from the competition by allowing users to manage various rental types, making it a one-stop platform for property rentals.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Abdullaah-Ali/"
+                },
+                {
+                    "text": "Live",
+                    "href": "pacedream.com"
+                }
+            ],
+            "tags" : [
+                "Node.js",
+                "React.js",
+                "MERN Stack",
+                "Vercel",
+                "Firebase",
+                "MongoDb"
+
+            ]
+        }
+    ]
+}

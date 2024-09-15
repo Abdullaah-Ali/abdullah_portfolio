@@ -1,0 +1,14 @@
+{
+    "education":[
+        {
+            "title": " Currently Studying",
+            "cardTitle": "A-Levels",
+            "cardSubtitle":"Private"
+        },
+        {
+            "title": "Jun 2019 - May 2024",
+            "cardTitle": "Complted O-Levels",
+            "cardSubtitle":"XYZ University, City"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "social": [
+        {
+            "network" : "linkedin",
+            "href": "https://www.linkedin.com/in/syed-abdullah-ali"
+        },
+        {
+            "network" : "github",
+            "href": "https://github.com/Abdullaah-Ali"
+        },
+        {
+            "network" : "email",
+            "href": "mailto:abdullahaliquadri@gmail.com"
+        }
+    ]
+}
