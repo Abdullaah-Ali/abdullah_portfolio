@@ -11,7 +11,18 @@
    
 
         }
+,
+{
+    "title": " Full Stack Developer",
+    "subtitle": "Clipit",
+    "workType": "Full-time",
+    "workDescription": [
+        "Developed a bookmark saving browser extension that helped users save time and avoid clutter. Used Firebase and Chrome Storage API, reducing bookmark retrieval time by 50% through local storage optimization. Leveraged NLP and TensorFlow models to generate 70% accurate summaries and tags based on user input data. Implemented real-time synchronization between local storage and Firebase, minimizing data redundancy and improving performance."
+    ],
+    "dateText": "SelfEmployed"
 
+
+}
     ]
 }
 
